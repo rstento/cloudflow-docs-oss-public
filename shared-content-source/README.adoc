@@ -18,9 +18,11 @@ Sharing content requires a source page, an including page, and a directive that 
   start-path: shared-content-source/docs
 ```
 
-== How to edit shared content
+== How to edit shared content and use cross-references
 
 When editing shared content, you should be sure that the information applies to all repositories where the information is being shared. This is currently the open source version of Cloudflow and Enterprise Features, which are documented in the https://github.com/lightbend/cloudflow-enterprise-docs repository and published at: https://developer.lightbend.com/docs/cloudflow/current/index.html. 
+
+You can use cross-references between shared files, as long as all docs sets that share the content include both files. You can also use cross-references to non-shared files. The target of the xref must exist in all target doc sets. For example, this reference will resolve in both Cloudflow doc sets, because ROOT:index.adoc exists in both: Please read xref:ROOT:index.adoc[the introduction] for more information. Note that rather than using the page title for the link text, it more generically refers to "the introduction". In this way, the page can have a different title in each doc set.
 
 == How to add new content
 
