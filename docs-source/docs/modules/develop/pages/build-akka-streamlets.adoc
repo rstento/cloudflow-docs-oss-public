@@ -4,5 +4,5 @@
 :toclevels: 2
 :page-supergroup-scala-java: Language
 
-include::shared:develop:page$build-akka-streamlets.adoc[]
+include::shared-content:develop:page$build-akka-streamlets.adoc[]
 

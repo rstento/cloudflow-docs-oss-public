@@ -3,4 +3,4 @@
 :toc-title: ON THIS PAGE
 :toclevels: 2
 
-include::shared:develop:page$use-akka-streamlets.adoc[]
+include::shared-content:develop:page$use-akka-streamlets.adoc[]
