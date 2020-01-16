@@ -10,6 +10,13 @@ content:
   - url: ./../
     branches: [HEAD]
     start-path: homepage-source/docs
+  - url: ./../
+    branches: [HEAD]
+    start-path: shared-pages/docs
+  - url: c:/git-local/cloudflow
+    branches: [HEAD]
+    start-path: examples
+    
   
 ui:
   bundle:

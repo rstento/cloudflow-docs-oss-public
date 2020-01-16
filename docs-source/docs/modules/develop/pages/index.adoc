@@ -1,0 +1,8 @@
+= Developing Cloudflow streamlets
+:site.url: https://cloudflow.io/docs
+:toc:
+:toc-title: ON THIS PAGE
+:toclevels: 2
+
+
+include::shared:develop:page$cloudflow-streamlets.adoc[]
