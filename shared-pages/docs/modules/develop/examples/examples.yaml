@@ -1,0 +1,8 @@
+examples:
+  - id: "call-record-aggregator"
+    path: "call-record-aggregator"
+    description: |
+      This multi-project example shows the combination of Akka/Scala, Akka/Java and Spark projects into an end-to-end application.
+  - id: "taxi-ride"
+    path: "taxi-ride"
+    description: This app shows the combination of multi-project streamlets using Flink and Akka
