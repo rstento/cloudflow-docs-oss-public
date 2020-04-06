@@ -7,7 +7,7 @@ include::ROOT:partial$include.adoc[]
 
 Detailed instructions on how to install a GKE cluster with Cloudflow are described in the https://github.com/lightbend/cloudflow/tree/master/installer[Cloudflow installer section] of the GitHub repo.
 
-IMPORTANT: If you have a Lightbend subscription, please use the instructions in the https://developer.lightbend.com/docs/cloudflow/current/install/run-script.html[Enterprise Features] documentation to install Cloudflow in your cluster.
+IMPORTANT: If you have a Lightbend subscription, please use the instructions in the https://developer.lightbend.com/docs/cloudflow/current/install/index.html[Enterprise Features] documentation to install Cloudflow in your cluster.
 
 To install a new cluster, clone the https://github.com/lightbend/cloudflow/[repo] in your local system by selecting the latest release branch or download the latest release file from https://github.com/lightbend/cloudflow/releases[here], go to the `installer/` folder and follow the instructions below.
 

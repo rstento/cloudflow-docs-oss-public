@@ -8,7 +8,7 @@ include::ROOT:partial$include.adoc[]
 
 The workflow to build and deploy your first Cloudflow application includes preparing a development environment, coding some streamlets, creating a blueprint to indicate data flow, and running the example. During development, you will likely want to run applications first in a local sandbox and then on a Kubernetes cluster.   
 
-IMPORTANT: If you have a Lightbend subscription, please use the instructions in the https://developer.lightbend.com/docs/cloudflow/current/install/run-script.html[Enterprise Features] documentation to install Cloudflow in your cluster.
+IMPORTANT: If you have a Lightbend subscription, please use the instructions in the https://developer.lightbend.com/docs/cloudflow/current/install/index.html[Enterprise Features] documentation to install Cloudflow in your cluster.
 
 This chapter describes how to build, deploy and run a simple "Wind Turbine" Cloudflow application and deploying it in a local sandbox and on a GKE cluster. Follow the main topics in order:
 
